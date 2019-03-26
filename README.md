@@ -46,5 +46,8 @@ Frequently travelled customers are filtered and the notifications are send throu
           -  Network traffic 
           -  Process is not applicable to all
           -  Not in offline process 
+          
+# Future Enhancements
+    Implementation of  notification processing  through message in upcoming years
 
 # Department of CSE
