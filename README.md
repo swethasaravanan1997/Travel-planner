@@ -29,7 +29,7 @@ The customer can enter their details for their booking and it is stored in the b
 
 
 
-# Module 3: Excel Automation-[Prakathi]
+# Module 2: Excel Automation-[Prakathi]
 
 The customer datas are stored in an excel(backend).
 For every customers, a single excel sheet is maintained to store their every travel.
@@ -37,7 +37,7 @@ The datas are collected and stored in an excel to filter the frequently travelle
 
 
 
-# Module 4: Mail Automation [Suvetha]
+# Module 3: Mail Automation [Suvetha]
 
 The frequently travelled customers are chosen from the database with a travel count above 5.
 Then the  notifications are sent through the mail for the frequently travelled customers.
